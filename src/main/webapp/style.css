@@ -1,0 +1,66 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 3 avr. 2018, 16:01:58
+    Author     : Formation
+*/
+
+body {
+    background-color: beige;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline overline;
+    margin: 40px 0px 80px 0px;
+}
+
+.lien {
+    width: 90px;
+    border-radius: 10px;
+    font-weight: bold;
+    padding: 10px;
+    color: white;
+    margin-left: 45%;
+    margin-bottom: 200px;
+    margin-top: 30px;
+    font-size: 10px;
+    background-color: red;
+}
+
+.lien:hover {
+    font-size: 17px;
+    color: black;
+    background-color: goldenrod;
+    font-weight: bold;
+}
+
+ul, li {
+    color: brown;
+}
+
+
+/* SAPINS */
+
+.input_OK {
+    background-color: brown;
+    border: black double;
+    color: white;
+}
+
+input {
+    border: black double;
+}
+
+
+/* Exercice 4 sur Deviner un nombre */
+
+.tropGrand_tropBas {
+    margin-top: 30px;
+    width: 60px;;
+    border-radius: 10px;
+}
